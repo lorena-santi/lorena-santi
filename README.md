@@ -18,15 +18,15 @@ Bem-vindo(a) ao meu perfil! Sou uma profissional apaixonada por transformar dado
 - **Ferramentas:**  
   Alteryx, Knime, Pentaho Data Integration, Power Query, Python  
 - Automação e otimização de processos de transformação de dados  
-- Criação de pipelines eficientes para análise e relatórios  
+- Criação de pipelines de dados para análises e relatórios  
 
 ### 🛢️ **Bancos de Dados**
 - **Conhecimento em:**  
   BigQuery, MySQL, PostgreSQL, Snowflake, SQL Server  
-- Manipulação e tratamento de grandes volumes de dados  
+- Manipulação e tratamento de dados  
 - Desenvolvimento de consultas SQL e integração de dados entre sistemas  
 
 ---
 
 ## 📫 **Vamos nos conectar?**
-Fique à vontade para explorar meus repositórios e projetos. Se tiver interesse trocar ideias, é só me chamar!
+Fique à vontade para explorar meus repositórios e projetos. Se tiver interesse em trocar ideias, é só me chamar!
