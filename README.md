@@ -2,7 +2,7 @@
 
 ### 📊 **Especialista em Dados**
 
-Bem-vindo(a) ao meu perfil! Sou uma profissional apaixonada por transformar dados em informações estratégicas e insights acionáveis. Possuo experiência na criação de análises e dashboards interativos utilizando diversas plataformas e ferramentas do mercado.
+Bem-vindo(a) ao meu perfil! Sou uma profissional apaixonada por transformar dados em informações estratégicas e insights acionáveis. Possuo experiência na criação de visualizações e análises avançadas, empregando diversas ferramentas para tratamento e integração de dados
 
 ---
 
