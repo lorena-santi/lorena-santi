@@ -8,7 +8,7 @@ Bem-vindo(a) ao meu perfil! Sou uma profissional apaixonada por transformar dado
 
 ## 🚀 **Minhas Habilidades**
 
-### 🔍 **Visualização e Análise de Dados**
+### 📈 **Visualização e Análise de Dados**
 - **Ferramentas:**  
   Grafana, JasperReports, Looker Studio, Power BI, Qlik, Tableau  
 - Desenvolvimento de dashboards e relatórios
@@ -20,7 +20,7 @@ Bem-vindo(a) ao meu perfil! Sou uma profissional apaixonada por transformar dado
 - Automação e otimização de processos de transformação de dados  
 - Criação de pipelines eficientes para análise e relatórios  
 
-### 🗄️ **Bancos de Dados**
+### 🛢️ **Bancos de Dados**
 - **Conhecimento em:**  
   BigQuery, MySQL, PostgreSQL, Snowflake, SQL Server  
 - Manipulação e tratamento de grandes volumes de dados  
