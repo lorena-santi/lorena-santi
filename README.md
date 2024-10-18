@@ -28,5 +28,8 @@ Bem-vindo(a) ao meu perfil! Sou uma profissional apaixonada por transformar dado
 
 ---
 
-## 📫 **Vamos nos conectar?**
-Fique à vontade para explorar meus repositórios e projetos. Se tiver interesse em trocar ideias, é só me chamar!
+## 📫 **Vamos nos conectar?**  
+Fique à vontade para explorar meus repositórios e projetos. Se tiver interesse em trocar ideias, é só me chamar!  
+
+Podemos conversar em:  
+🇧🇷 **Português** | 🇺🇸 **Inglês** | 🇪🇸 **Espanhol**
