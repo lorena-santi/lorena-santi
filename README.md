@@ -27,7 +27,7 @@ I am a professional passionate about transforming data into strategic informatio
 ---
 
 ## 📫 **Let's Connect!**  
-Feel free to explore my repositories and projects. If you're interested in exchanging ideas, don’t hesitate to reach out!
+Feel free to explore my repositories and projects. If you're interested in exchanging ideas, don't hesitate to reach out!
 
 We can communicate in:  
 🇧🇷 **Portuguese** | 🇺🇸 **English** | 🇪🇸 **Spanish**
