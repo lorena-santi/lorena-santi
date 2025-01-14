@@ -1,35 +1,33 @@
 # 👩‍💻 Lorena Santiago
 
-### 📊 **Especialista em Dados**
-
-Bem-vindo(a) ao meu perfil! Sou uma profissional apaixonada por transformar dados em informações estratégicas e insights acionáveis. Possuo experiência na criação de visualizações e análises avançadas, empregando diversas ferramentas para tratamento e integração de dados.
+I am a professional passionate about transforming data into strategic information and actionable insights. I have experience in creating advanced visualizations and analyses, utilizing various tools for data processing and integration.
 
 ---
 
-## 🚀 **Minhas Habilidades**
+## 🚀 **My Skills**
 
-### 📈 **Visualização e Análise de Dados**
-- **Ferramentas:**  
+### 📈 **Data Visualization and Analysis**
+- **Tools:**  
   Grafana, JasperReports, Looker Studio, Power BI, Qlik, Tableau  
-- Desenvolvimento de dashboards e relatórios
-- Exploração de dados para geração de insights e suporte à tomada de decisão  
+- Dashboard and report development
+- Data exploration for generating insights and supporting decision-making
 
-### ⚙️ **ETL e Processos de Integração**
-- **Ferramentas:**  
-  Alteryx, Knime, Pentaho Data Integration, Power Query, Python  
-- Automação e otimização de processos de transformação de dados  
-- Criação de pipelines de dados para análises e relatórios  
+### ⚙️ **ETL and Integration Processes**
+- **Tools:**  
+  Alteryx, Knime, Pentaho Data Integration, Python  
+- Automation and optimization of data transformation processes
+- Creation of data pipelines for analysis and reporting 
 
-### 🛢️ **Bancos de Dados**
-- **Conhecimento em:**  
+### 🛢️ **Databases**
+- **Knowledge in:**  
   BigQuery, MySQL, PostgreSQL, Snowflake, SQL Server  
-- Manipulação e tratamento de dados  
-- Desenvolvimento de consultas SQL e integração de dados entre sistemas  
+- Data manipulation and processing  
+- SQL query development and data integration between systems
 
 ---
 
-## 📫 **Vamos nos conectar?**  
-Fique à vontade para explorar meus repositórios e projetos. Se tiver interesse em trocar ideias, é só me chamar!  
+## 📫 **Let's Connect!**  
+Feel free to explore my repositories and projects. If you're interested in exchanging ideas, don’t hesitate to reach out!
 
-Podemos conversar em:  
-🇧🇷 **Português** | 🇺🇸 **Inglês** | 🇪🇸 **Espanhol**
+We can communicate in:  
+🇧🇷 **Portuguese** | 🇺🇸 **English** | 🇪🇸 **Spanish**
