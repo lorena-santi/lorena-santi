@@ -8,7 +8,7 @@ I am a professional passionate about transforming data into strategic informatio
 
 ### 📈 **Data Visualization and Analysis**
 - **Tools:**  
-  Grafana, JasperReports, Looker Studio, Power BI, Qlik, Tableau  
+  Grafana, JasperReports, Looker, Power BI, Qlik, Tableau  
 - Dashboard and report development
 - Data exploration for generating insights and supporting decision-making
 
