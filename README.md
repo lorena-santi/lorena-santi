@@ -1,10 +1,10 @@
-# 👩‍💻 Lorena Santiago
+# Lorena Santiago
 
 I am a professional passionate about transforming data into strategic information and actionable insights. I have experience in creating advanced visualizations and analyses, utilizing various tools for data processing and integration.
 
 ---
 
-## 🚀 **My Skills**
+## **My Skills**
 
 ### 📈 **Data Visualization and Analysis**
 - **Tools:**  
